@@ -10,11 +10,8 @@ st.markdown("""
 - **Home:** You are here!
 - **RMSD:** Calculating the RMSD between two molecules
 """)
-
 st.divider()
-st.markdown("""
-    [**GitHub**](https://github.com/rasbt/protein-science/tree/master) 💻
-    """)
-st.text("")
 st.markdown("""App Created by [Health Universe](https://www.healthuniverse.com) 🚀
-            (Kinal Patel and Mitchell Parker)""")
+            (Kinal Patel and Mitchell Parker) """ "|" """
+    [**GitHub**](https://github.com/rasbt/protein-science/tree/master) 💻
+    """ )
